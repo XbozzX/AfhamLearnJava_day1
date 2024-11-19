@@ -27,7 +27,7 @@ public class CarAssignment1point1 {
             
         // }
         
-        //car1
+        //car1 
         Scanner scanner = new Scanner(System.in);
         // System.out.println("Car Name");
         // String carCompany = scanner.nextLine(); 
